@@ -1,7 +1,7 @@
 /*
 
 Source Code: RedBearLabs, SimpleController Source
-Modified by: Aaron Wang, Michael Muzio
+Modified by: Aaron Wang
 HMC E4 Section 1, Team 3
 Fall 2014
 Made for Praxis Biosciences, Test Tube Rocker/Product Display
